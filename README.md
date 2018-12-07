@@ -57,12 +57,12 @@ Help: man lf_exam
 ## Exam practice:
 Create cluster cookbook guide and practice for exam:
 https://github.com/kelseyhightower/kubernetes-the-hard-way
-Credits: https://github.com/kelseyhightower
+*Credits:* https://github.com/kelseyhightower
 
 You can set up mock test environment for practice from below GIT repo.
 This will make you familiar with the exam format and tools.
 https://github.com/arush-sal/cka-practice-environment
-Credits: https://github.com/arush-sal
+*Credits:* https://github.com/arush-sal
 
 ## Readme.md Credit:
 I used below file as template to create this Readme.md
