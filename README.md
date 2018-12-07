@@ -5,7 +5,7 @@ All details required for CKA certification exam preperation
  I am just gathering contents to be easily useable for candidates writing CKA exam. I do not own/manage cncf/kubernetes content in any way.
 
 ```
-Please go through https://www.cncf.io & https://kubernetes.io for comprehensive details
+Please go through [cncf.io] (https://www.cncf.io) , [kubernetes.io] (https://kubernetes.io) & [linuxfoundation.org] (https://www.linuxfoundation.org/] for comprehensive details
 ```
 
 ## General details
@@ -14,7 +14,7 @@ Please go through https://www.cncf.io & https://kubernetes.io for comprehensive 
 * Required pass percentage: 74%
 * Exam duration: 3 Hr
 * Browser: Chrome/Chromium
-* FAQ: https://www.cncf.io/certification/cka/faq/
+* [FAQ] (https://www.cncf.io/certification/cka/faq/) - Check FAQ
 
 ```
 Make sure not to block below ports on your local laptpop:
@@ -23,7 +23,7 @@ Make sure not to block below ports on your local laptpop:
 
 ```
 You can browse only below websites during exam:
-https://kubernetes.io/docs/ or https://kubernetes.io/blog/ or https://www.linuxfoundation.org/
+https://kubernetes.io/docs/ or https://kubernetes.io/blog/
 ```
 
 ## Topcs by weightage in exam:
