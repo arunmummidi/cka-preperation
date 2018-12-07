@@ -4,8 +4,8 @@ All details required for CKA certification exam preperation
 ## Disclaimer:
  I am just gathering contents to be easily useable for candidates writing CKA exam. I do not own/manage cncf/kubernetes content in any way.
 
- 
-##Comprehensive resources:
+
+## Comprehensive resources:
 
 * [cncf.io](https://www.cncf.io)
 * [kubernetes.io](https://kubernetes.io)
