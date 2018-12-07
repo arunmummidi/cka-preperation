@@ -21,7 +21,7 @@ Make sure not to block below ports on your local laptpop:
 
 ```
 You can browse only below websites during exam:
-https://kubernetes.io/docs/ or https://kubernetes.io/blog/
+https://kubernetes.io/docs/ or https://kubernetes.io/blog/ or https://www.linuxfoundation.org/
 ```
 
 ## Topcs by weightage in exam:
@@ -35,6 +35,11 @@ https://kubernetes.io/docs/ or https://kubernetes.io/blog/
 * 19% - Core Concepts
 * 11% - Networking
 * 12% - Installation, Configuration& Validation
+
+## Exam preperation:
+* Free Introduction on kubernetes: https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#!
+* Paid training: https://training.linuxfoundation.org/training/kubernetes-fundamentals/
+
 
 ## In exam terminal console:
 ```
