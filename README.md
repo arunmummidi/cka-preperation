@@ -12,8 +12,10 @@ Please go through https://www.cncf.io & https://kubernetes.io for comprehensive 
 * CKA clusters will use OS: Ubuntu 16
 * Kubernetes version v1.12 or v1.11
 * Required pass percentage: 74%
+* Exam duration: 3 Hr
 * Browser: Chrome/Chromium
 * FAQ: https://www.cncf.io/certification/cka/faq/
+
 ```
 Make sure not to block below ports on your local laptpop:
 8080/tcp, 4505/tcp and 4506/tcp
