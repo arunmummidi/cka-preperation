@@ -17,7 +17,7 @@ All details required for CKA certification exam preperation
 * Required pass percentage: 74%
 * Exam duration: 3 Hr
 * Browser: Chrome/Chromium
-* [FAQ](https://www.cncf.io/certification/cka/faq/) - Check FAQ
+* [FAQ](https://www.cncf.io/certification/cka/faq/)
 
 ```
 Make sure not to block below ports on your local laptpop:
