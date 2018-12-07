@@ -57,3 +57,8 @@ You can set up mock test environment for practice from below GIT repo.
 This will make you familiar with the exam format and tools.
 https://github.com/arush-sal/cka-practice-environment
 Credits: https://github.com/arush-sal
+
+## Readme.md Credit:
+I used below file as template to create this Readme.md
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+https://gist.github.com/PurpleBooth
