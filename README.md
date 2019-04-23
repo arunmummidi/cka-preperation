@@ -44,6 +44,7 @@ https://kubernetes.io/docs/ or https://kubernetes.io/blog/
 ## Exam preperation:
 * Free Introduction on kubernetes: https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#!
 * Paid training: https://training.linuxfoundation.org/training/kubernetes-fundamentals/
+  - Training code: LFS258
 
 
 ## In exam terminal console:
